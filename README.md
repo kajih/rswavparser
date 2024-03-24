@@ -1,2 +1,3 @@
-# rswavparser
-A Nom parder for wav files, just for fun with nom
+# rsWavParser
+A Nom parser for wav files.
+Just for playing with nom and rust.
